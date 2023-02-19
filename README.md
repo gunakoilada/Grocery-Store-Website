@@ -1,2 +1,2 @@
 # Grocery-Store-Website
-   This grocery store website allows the users to order any groceries which are available in the website.At the same time as the project also includes backend(php)
+   This grocery store website allows the users to order any groceries which are available in the website.At the same time as the project also includes backend(php),so we ourselves acts asa dmins to the website so that any changes like updating,inserting and deleting etc from the website can be done by us.Simply we will be the admin of the website if  we do backend.The website created by us simply work as zomato,swiggy etc i.e; we can order the items,wishlist the products,add to cart all can be done through the website.
